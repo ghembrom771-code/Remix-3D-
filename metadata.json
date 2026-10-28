@@ -1,0 +1,10 @@
+{
+  "name": "Remix Anywhere",
+  "description": "Transform reference photos into ultra-realistic 3D cinematic portraits in 4K UHD 9:16 format with stylish black mask, PBR shaders, dramatic studio lighting, 3D holographic tilt viewer, and WebGL gallery.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
